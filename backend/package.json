@@ -9,6 +9,8 @@
   "author": "Team Emerald-Chameleon",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.18.2"
+    "dotenv": "^16.1.4",
+    "express": "^4.18.2",
+    "mongoose": "^7.2.3"
   }
 }
